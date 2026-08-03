@@ -1,2 +1,19 @@
-# PowerBI_Projects
-This Repo has a intractive power Bi projects
+# Employee Productivity Dashboard
+## 1) Business Objective
+Developed an Employee Productivity Dashboard to help managers and business leaders monitor employee performance, productivity, quality, and error trends in one place for better decision-making.
+
+## 2) Key KPIs Tracked
+Achieved Count vs Expected Count
+Productivity %
+QC (Quality Check) Count
+Total Error Count
+Accuracy %
+Deviation from Expected Performance
+
+## 3) Tools Used
+Power BI for dashboard development and visualization
+Excel as the data source
+Power Query for data cleaning and transformation
+DAX for KPI calculations and measures
+## 4) Business Impact
+The dashboard provided leadership with a real-time view of employee performance, helped identify top and low performers, monitored quality issues, and enabled data-driven decisions to improve overall team productivity and accuracy.
